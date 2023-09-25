@@ -10,6 +10,7 @@ Steps to test:
 Automated test:
 
 ## Checklist
+- [ ] Did you use STAGING as your base for this pull request?
 - [ ] Has all vulnerabilities found by SAST been remediated?
 - [ ] Has this code been tested?
 - [ ] Did the existing automated tests pass?
