@@ -1,0 +1,17 @@
+## Description
+<!-- what does this PR try to accomplish -->
+
+<!-- how did you do to accomplish it? -->
+
+## Test Plan
+UAT Site: 
+Steps to test:
+
+Automated test:
+
+## Checklist
+- [ ] Has all vulnerabilities found by SAST been remediated?
+- [ ] Has this code been tested?
+- [ ] Did the existing automated tests pass?
+- [ ] If this is a new requirement, was new test scenario been added?
+- [ ] If application, have documentations been updated?
