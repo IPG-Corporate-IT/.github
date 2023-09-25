@@ -14,5 +14,5 @@ Automated test:
 - [ ] Have all vulnerabilities found by SAST been remediated?
 - [ ] Has this code been tested?
 - [ ] Did the existing automated tests pass?
-- [ ] If this is a new requirement, was new test scenario been added?
+- [ ] If this is a new requirement, has new test scenario been added?
 - [ ] If applicable, have documentations been updated?
